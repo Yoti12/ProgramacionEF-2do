@@ -5,3 +5,4 @@ interesAnual=float(input("Ingrese el interes anual: "))/100
 años=int(input("Ingrese el número de años: "))
 capital=montoInicial*(1+interesAnual)**años
 print("El capital obtenido es de",capital)
+# 4, 6, 8, 11
